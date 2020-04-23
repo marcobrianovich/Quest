@@ -8,7 +8,7 @@ This is a short adventure that is designed to help a group of new players get st
 > 
 > _Neeva "Quarrel" Yumin_
 
-## Setting
+## Setting
 
 The player characters are individually travelling in the Grand Caravan that once-a-year crosses the flood plains of Nhetan, carrying trade goods and travelers between the 13 Kingdoms and the city of Keffi. Each player character is travelling to Keffi for their own reasons. 
 
