@@ -1,0 +1,200 @@
+## Quest Campaign
+
+[quote, Neeva "Quarrel" Yumin]
+So, here we are, at the very beginning of the thing. Are you ready for adventure? Because, old friend ready-or-not, the adventure is waiting, and she doesn't look like the patient sort. Gird your weapon, grab your sack and let's get going.  
+
+[.lead]
+Welcome to *Quest Campaign*,  a introductory campaign for the new fantasy role playing game, Quest, from The Adventure Guild. If you don't know Quest, go and see all about it on the official website: link:https://www.adventure.game/what-is-quest[www.adventure.game^].
+
+What is Quest?::
+Quest is a tabletop fantasy role playing game from the adventure guild. It is designed to be an inclusive, friendly, and easy-to-pick-up introduction to fantasy role playing games.
+
+What is a campaign?::
+A series of connected adventures, usually played through by a fixed group of player characters. Usually, a campaign tells a lengthy story where the individual adventures are like the chapters of a book, in that each adventure tells its own story but also builds on a bigger story. The first official Quest adventure, link:https://www.adventure.game/the-reach/welcome[The Reach], will provide materials for a Quest campaign that uses the West Marches styles of play -- this is a type of campaign that is designed to be easy to keep going because it takes into account that it can be hard for people to organise to regularly gather together. This campaign takes some ideas from this style of play, chiefly that the Player Characters have a base, a campaign hub where they return to at the end of each adventure.
+
+IMPORTANT: You should only continue to read past this point if you are your play group's Guide. Otherwise, turn away now, before you see too much and suffer a terrible spoiler injury.
+
+### Tzook, the campaign hub
+
+The player characters are based at a hub, an ancient stone city, called Tzook, that long ago escape total destruction by being pulled into the RIFT, a magical dimension that connects all the worlds of the omniverse.
+
+> Tzook looked like someone had carved an entire city out of a great block of granite. Seamless dark grey rock formed the city's thick outer wall and continued, along seven spoke-like main roads to the central spire. Although the individual buildings along the main roads interupted the city's uniformity with many different coloured and shaped bricks, it was clear that everything not cut from dark grey rock was in some way perched upon it. In fact, Tzook's hewn rock consistency gave visitors the impression of a living, breathing thing, on which people had merely settled, like fleas on the back of a massive shiny grey elephant.
+
+
+### Campaign Synopsis
+
+#### Some history
+
+Behind the dusty shroud of ages long past, there was once a titanic war, fought across all the planes of reality. Worlds shook, mountains crumbled as godlike forces clashed. Some say this war is why, today the rift is a shattered and broken place. In the end giants fell, but not all of them. Some found escape in strange places, and in strange forms.
+
+One such powerful entity was Tsueq, a godling who avoided death by transforming herself into a hidden city. Her enemy was stymied, as he scoured the planes looking for Tsueq's hiding place, never suspecting that she had, in fact, turned herself into a hiding -- place.
+
+Eventually, some tribal hunters found Tsueq in her city form and traded its location to a merchent for a few worn-out horses. The merchant moved into the city, setting himself up as the ruler. He then promised free homes to anyone willing to make the long and dangerous journey out to the city's isolated location. In just a few years, Tsueq became a thriving city, a base for prospectors, hunters and farmers began to exploit and settle the surrounding lands. In all of this, Tsueq was happy. It seems that life as a empty city had been very dull.
+
+Unfortunately for Tsueq, her enemy eventually came to the city, and recognised her from glyphs carved on the inside of her outer wall. Realising what Tsueq had done, the enemy prepared a very powerful and destructive spell, setting upon Tsueq a terrible force of destruction. The destruction, now just called "The cataclysm" broke the landscape and flattend forests. Within Tsueq's walls, the people huddled in terror, waiting for death to come, only it didn't. For reasons none of Tzook's inhabitants could guess, the city and the bedrock on which it stood, simply withdraw from the world to the RIFT. The citizens could not know that their home had a mind of its own, and that the magical forces required to escape into the RIFT had broken Tsueq. The force of will required to teleport into the RIFT had disconnected Tseuq's body (the city) from her mind, which took the form of a nine-year-old girl, who calls herself Bellsey.
+
+Today, the city floats about in the RIFT, all the regular doorways out of the city are blocked by fallen rubble, the only ways in or out is through a number of magical portals that conveniently connect Tsueq to a various important cities, across the omniverse. This has made Tzook an indispensible hub for those who wish to travel between worlds.
+
+#### Chapter One: Frontier Cartography (and other dangers)
+
+The player characters have volunteered to go through the portal to the lands of Pevalyn, a wilderness location on the world of Kamalon. The eldars of Tzook want the player characters to find and if possible rescue Yenley-the-ever-wise and his helpers. If that is not possible then they need to complete Yenley's mission to create a basic map of the region and identify any threats or opportunities to be investigated on later missions. Since the cataclysm there has been no contact with Pevalyn. The cataclysm was assumed to have destroyed everything in fire, falling sulpherous rocks and hundreds-of-mile-per-winds. As the destruction was in fact focused on the city itself, the cataclysm didn't greatly impact outlying areas, although the destruction of the locality forced people to move off to distant realms, leaving the region  
+
+The player characters travel through the portal to Pevalyn in a small rowing boat, which transports them to the centre of a lake, which was formed from the huge gap in the land that was created with Tzook was transported to the rift. The landscape is rugged with no sign of civilization. The Player Characters have the freedom to go where and do what they want. Scattered around the region are a number of locations that will provide clues for pushing the adventure along. However, in this adventure there are no specific actions that must be accomplished before the adventure ends, providing they can return to Tzook.
+
+
+
+#### Chapter Two: 
+
+Synposis:: The player characters are sent to investigate the origins of the cataclysm. The city Elders want to be sure that it won't happen again. On being given the quest, the PCs remember a little girl singing a song that hints strongly that the little has the key to finding the place that they seek. The adventure begins with the characters tracking down the girl and quizzing her about the song that she sung. 
+Once in possession of the clue, the player characters then Journey back to the homeland to explore a dangerous underworld, confronting and defeating Tzook's nemesis. At the end of the chapter, the player characters learn Tzook's secret - the city is a person, of sorts.
+
+#### Chapter Three:
+
+Synopsis:: In the final chapter of the campaign, the Player Characters may work towards one of two goals: they can reconnect Tzook with her soul, this will destroy the city, forcing its inhabitants to flee through the portal to the homelands. In the end, Tzook returns and thanks the player's for their help, before wandering off.
++
+Alternately, the Player Characters conclude that Tzook is actually happier as a city than she ever was as a godling, and can take action to return Tzook to her original hiding place, now safe from her enemy, who is defeated in Chapter Two. In this outcome, Bells is revealed as a spirt and fades away, Tzook is teleported to its old lands, allowing its inhabitants to expland, again.
+
+
+### Chapter One: Frontier Cartography (and other dangers)
+
+In the first adventure of the campaign, the Player Characters travel through a magical portal, in a small boat, their mission: explore around the edges of the lake that was once the location of Tzook, looking for the city magician and his helpers.
+
+
+*Quest objectives:*
+
+* Locate Yanley-the-ever-wise and his small team of helpers who were due to return from the first excursion through the portal three days ago.
+* Create a basic map of the suroundings. For this, the player characters are issued with parchment, pen and inks, basic map making tools. 
+* Visit any obvious places of interest, logging any potential risks or opportunities.
+
+
+#### Practicalities
+
+* The magical portal is located at the end of a large sewer tunnel. The tunnel ends in a brick wall and yet water mysteriously flows towards the wall. Looking at the wall, the light ripples. Magic using characters can sense a magical energy coming from a spot in front of the wall. It's apparently a kind of tear in the dimensional fabric.
+
+* A small rowing boat, equipped with supplies is tied up on on the path on one side of the tunnel. The Player Characters are to travel through the portal in the boat.
+
+* Factotum Marigold hands the Player Characters a bag with a fist-sized piece of rock in it, explaining that if dust that is grinded from the rock is laid on the ground in the form of a closed shape, the shape will become a short-lived magical portal back to Tzook. It's their way home so the PCs _better not lose the bag!_
+
+
+### Adventure Overview
+
+The player characters agreed to travel through a magical portal to the place from where Tzook escaped a catastrophy. They discover that the cities main wizard, along with a small group of explorers already travelled there and are three days overdue. 
+
+The player characters are therefore expected to complete the original purpose of the mission, explore the region, looking for risks and rewardss, as well as locate and rescue the wizard and his helpers.
+
+
+#### Going Home
+
+While Tzook's unique ability to tie together important far-flung cities has brought considerable wealth and influence, its citizens urgently need more land. A few metres beyond the city's wall, the land falls away into endless sky of the RIFT. This resulted in more than 100 years of extending the city with timber walkways and rooftop extensions, an expensive effort given that all building materials have to be brought through a magical portal on the back of a horse. Recently, the city's chief wizard discovered a dormant magic portal that when opened lead back to the old location of the city. The city eldars are excited at the prospect of reclaiming their ancestral homelands, they hope to expand their city out of portals to its old location. 
+
+Yenley the ever-wise, Tzook's chief magician took a small group of helpers through the portal with the aim of producing an intial survey of the land surrounding the city's old location. However, Yenley and the group failed to return and are now three days overdue. The city elders have decided to ask for volunteers (in this case, the Player Characters) to go through the portal, rescue Yenley and his people, or complete the original task of mapping the area.
+
+#### What happened to Yanley and his group?
+
+On arrival, their boat was immediately sunk by a creature in the lake. They all made it to shore but Yanley lost the hearthstone, a piece of rock from Tzook which was required for opening the portal back home.
+
+The group managed to set up a camp on the side of the lake, then went to to explore a half fallen down mountain, on the side of which they found a cave entrance, called "The Gape". Discovering that the cave within the Gape is blocked by magical barrier, Yanley attempted to break the barrier using spells, which caused minor rockslides. Hunters from a local tribe witnessed the incident and mistook the rockslide for the anger of the sleeping gods. The notion that these strangers had caused the old gods to anger greatly agitated the hunters who attacked Yenley's group. Yanley and his remaining people are now being held in wooden cages in a small camp, waiting for the player characters to rescue them.
+
+
+### Through the portal
+
+Once the Player Characters have gathered their things and been briefed on the mission by Nona Trustworth.
+
+
+#### Have boat, will travel (until attacked by a monster)
+
+The PCs steer their rowing boat to the ball of mist that hides the magic portal. On rowing out of the ball of mist, they find themselves in the middle of a large lake. On this side there's no sign of mist, although there's something odd happening to the water, as water is leaking into the lake from an invisible portal.
+
+Being situated on the lake allows the Player Characters to easily travel to any place along the bank, making most of the locations they may wish to explore easy to get to. However, there's a beast in the water that may attack them.
+
+
+### Encounters
+
+##### Encounter 1 - The Lake
+
+Travelling across the lake in a boat requires a test of the fates. There's a large creature living in the lake that occasionally attacks boats with its beak and tenticles. 
+
+.We're gonna need a bigger boat.
+[cols="1,10"]
+|===
+|*D20 Roll*   |*Results*
+|20 | The PCs find wreckage from Yenley's boat. Attached to the wooden fragments is a canvas bag containing a curious piece of grey granite masonry.
+|5-19 |Pass 
+|2-4    | Something knocks the PCs boat, possibly causing its occupants to fall into the lake. Something large, black and shiny breaks the water but then disapears.
+|1 | Crash! The PCs boat is hit hard by something in the later. The boat literally breaks in half, leaving the PCs to splash around in the lake.
+|===
+
+
+##### Encounter 2 - 
+
+To the citizens of Tzook, alive at the time of the cataclysm, the destruction looked and felt world-ending. In truth, the force of the destruction was localised to the city, although the area surrounding the city was completely pulverised, turning everything man-made into rubble.
+
+*The following locations feature in this chapter:* +
+
+The Crater Lake:: The location where Tzook once stood is now a large lake.
+
+The Craglands:: A region where the sudden displacement of the city resulted in a great landslide. Today, this area is a series of semi-circular concentric ridges outlined with deep gullys, some of which have rivers running along their base. +
+*Clue:* The hunters camp.
+
+The Gape:: The side of a mountain has fallen away, revealing a large cave opening. Inside this area are the signs of a great magical ritual, although a magical barrier currently blocks access to the cave. +
+*Clue:* Strong signs of a magical event. _Getting inside of the Gape is the main part of Episode 2._
+
+Fallen tower:: A ruin of a free-standing stone tower. The top half of the tower appears to have been blown down, falling to the side, creating a stone slope that can just about be climbed to reach the open room of the tower. +
+*Clue:* Exploring the tower uncovers the presense of a being called Hespatant, who, shortly before the cataclysm was gathering magical ingredients to cast a very powerful spell. 
+
+Inside the Gape are the lion's share of the adventure's clues for what happened. There will be a chance encounter with Hespatant, Tzook's ancient nemesis.
+
+
+
+### The Haganassian Tribe
+
+Primative (bronze age) tribal people hunt and gather in the forests surounding the crater lake. The Haganassian hunters will be initially hostile to the player characters, but more out of fear than xenophobia. Once it is known that the player characters have come from the fallen city, the tribesmen will revere them and treat them as supernatural beings.
+
+THe Haganassians can trace their ancestory back to the villages that live around Tzook. The cataclysm broke their civilization and they've been stuck in a very primitive rut ever since. The Haganassians view the speaking of planes-speak as a terrible transgresion.
+
+TIP: Planes-Speak or omnitongue (Omni, for short) is the language that is broadly shared by peoples who live throughout the omniverse. There are many variants and dialects, but all civilized and or educated peoples can talk to each other using this language.
+
+When the Haganassians encountered Yanley and his helpers, they mistook Yanley's spell casting efforts to get inside the Gape as a sign that the god of the mountain had been angered. When Yanley spoke to the hunters in planes speech, this only made things worse, as planes-Speak is sacriledge.
+
+Yanley and his group were quickly captured with minimal bloodshed, this is partly because Yanley stopped his helpers from fighting back and refused to cast any magic as part of a confrontation -- Yanley considered that it there is any hope of returning his people to this land, it must be done with the cooperation of those native peoples who are already living here. If the first encounter lead to bloodshed then the whole enterprise would be doomed to fail.
+
+
+
+
+
+### So Long Tzookers!
+
+.Letter from the Elders
+====
+
+Citizens of Tzook,
+
+We need your help for a most worthy and dutiful enterprise. Although our city is thriving, we are greatly needfull. For years, our children have been forced to settle on foreign worlds. We need land on which to build homes! Each year that passes, the merchants who bring food and goods to the city increase their prices. We need farms! At last providence has answered our prayers! Yenley the ever-wise has discovered a long dormant magical portal, to our ancentral lands, hidden deep in the cities drainage system. We need stout volunteers of good standing to travel through the portal and explore the long lost lands of Pevalyn. We need a good map drawing, we need to know what dangers and opportunities await us.
+
+If all goes well, we will be drawing up plans to establish outposts and then settlements.
+====
+
+#### Workshop of the telescopes
+
+Important Characters
+
+Factotum Marigold:: The city elders call upon Marigold to conduct their urgent and important business. A barrel-shaped woman with greying curls and penetrating blue eyes. Factotum Marigold is a driven woman who marches around Tzook making sure that everyone is getting on with it. 
+Quote - "Get on with it!"
+
+
+Yenley the ever-wise:: Tzook's oldest wizard. Yenley staggers and shakes but remains a very sharp and powerful magic user. He's crotchety and obsessive but a long lifetime of service to the city has earned him respect from all quarters.
+Quote - " "
+
+Bellsy:: Bellsy is a 9-year-old girl. Skinny with long shiny black hair. An observant and ever cheeky, she presents herself in quiet places and in the dark hour. She is the soul of the city who appears mostly at night.
+Quote - "Watchy doin?"
+
+> Bellsy is...
+> B is bygone, never forgetting golden memories.
+> E is eternal, your spirit will live.
+> L is luxury, the luxury of your smile.
+> L is luster, Shining in moonlight.
+> S is serene, so calming and kind.
+> Y is yes, always open to new possibilities
+
+
+Once per year, Tzook is visited by a huge airship, which apparently is able to travel between the locations in the RIFT. The airship docks for three days of trade and tourism.
