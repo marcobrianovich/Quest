@@ -28,9 +28,21 @@ Some of the attacker have horses, it might be possible for some of the PCs to di
 
 The journey from the Nhetan Plains to the Keffi highlands takes three days of travel, during which the PCs face minor obstacles and learn a little more about their patron. 
 
+**Greater Red Rock Stork** A large red bird is seen flying around. Sir Rastus fears that it is some kind of scout for the Crimson Horde. The party must make efforts to evade the bird as it flies over. 
+
+**Chase through the valley of the chonth** The party must cross a particular stretch of valley or face an extra day of travel but the valley contains a tightly packed herd of chonth, oversized bison-like creatures that are infamous for stampeding careless passers by to death.
+
+A precarious situation unless to party includes a naturalist or has some smart ideas. The Guide should dress the situation up as dangerous, although in truth crossing the valley only becomes life threatening if someone does something really foolish or very unlucky in a their die roll.
+
+**Singing in the night**
+
+With the destination visible in the distance, Sir Rastus suggests making camp so as to get better light for tackling the walk to the entrance of the ruin. He has been lead to believe that getting into the ruin requires a walk along a ledge that circles the great tower of red rock that is the Singing butte.
+
+In the night, distant singing can be heard. The voice is very low in pitch and does not sound like it is coming from a human. The words of the song sound like a strange language that none of the party can understand. 
+
 **Episode Three: Exploring the O'Jypta Hall Spirit Cleansing**
 
-The party arrives at the Singing Butte, so named as it is said that strange songs sometimes eminate from it.
+The party arrives at the Singing Butte, although only the sound of the wind can be heard. At the base of the Butte is a ledge that coils around the butte, leading up to a door on about five metres from the top.
 
 
 ## Episode One: Introductions
